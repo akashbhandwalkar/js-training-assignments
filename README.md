@@ -7,6 +7,6 @@ You have to run the mock server and I assume it runs on localhost:3000 and I hav
 # How To Run
 #Problem-2
   
-  `node problem-2/implementation-of-own-forEach.js`
+ overriding forEach:  `node problem-2/implementation-of-own-forEach.js`
   
-  `node problem-2/using-inbuilt-forEach.js`
+ Usage of forEach:  `node problem-2/using-inbuilt-forEach.js`
